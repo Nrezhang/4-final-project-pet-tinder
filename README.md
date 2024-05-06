@@ -1,5 +1,6 @@
 # Play Dates for Pets
 https://urchin-app-n5bks.ondigitalocean.app/login
+deployed with docker and continuous deployment
 
 ##  Project Description
 
